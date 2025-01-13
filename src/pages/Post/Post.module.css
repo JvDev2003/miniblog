@@ -1,0 +1,24 @@
+.postContainer{
+    text-align: center;
+}
+
+.postContainer img{
+    max-width: 600px;
+}
+
+.postContainer h3{
+    margin-bottom: .2em;
+}
+
+.postContainer .tags{
+    display: flex;
+    justify-content: center;
+}
+
+.tags p {
+    margin-right: 1em;
+}
+
+.tags span{
+    font-weight: bold;
+}
