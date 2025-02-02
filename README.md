@@ -39,7 +39,7 @@ Before you begin, ensure that you have the following installed on your machine:
    cd miniblog
    ```
 
-2. Install packeges, fill the .env and run:
+2. Install packeges and fill the .env:
 
    ```bash
     npm install
